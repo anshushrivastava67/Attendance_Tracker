@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "604541206237",
+    "project_id": "attendance-tracker-8f963",
+    "storage_bucket": "attendance-tracker-8f963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604541206237:android:5adc83a89995f07817a534",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604541206237-5ia8nb286kpn858uphot76qh78t2avk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app1",
+            "certificate_hash": "da951c9bdaf28363ba3a886da466849e307fb3c1"
+          }
+        },
+        {
+          "client_id": "604541206237-dsge7qb0ujae4aq6470sstgq38m8rg5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOPfM4Vn6pZ-Be_67qlt-lUbVqJMNWGfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604541206237-dsge7qb0ujae4aq6470sstgq38m8rg5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
